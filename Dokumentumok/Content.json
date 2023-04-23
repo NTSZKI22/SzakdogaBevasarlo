@@ -1,0 +1,4 @@
+{ "_id" : { "$oid" : "643eca3d20ceff53c2e1543a" }, "item" : "elso", "status" : false, "listId" : { "$oid" : "643eca3d20ceff53c2e15439" } }
+{ "_id" : { "$oid" : "643ed711fe495d503cc298fa" }, "item" : "almafa", "status" : false }
+{ "_id" : { "$oid" : "643ed756fe495d503cc298fc" }, "item" : "dasdas", "status" : false }
+{ "_id" : { "$oid" : "643ed778fe495d503cc298fe" }, "item" : "helloka", "status" : false, "listId" : { "$oid" : "643eca3d20ceff53c2e15439" } }

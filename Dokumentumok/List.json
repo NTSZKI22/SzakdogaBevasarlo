@@ -1,0 +1,14 @@
+{ "_id" : { "$oid" : "643ef21068db7da29c259226" }, "name" : "alma", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "korte", "banan" ] }
+{ "_id" : { "$oid" : "643ef21f68db7da29c259228" }, "name" : "alma", "expiresat" : "2023-04-17T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "alma", "kenyérke" ] }
+{ "_id" : { "$oid" : "643ef22168db7da29c25922a" }, "name" : "alma", "expiresat" : "2023-04-17T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "alma", "kenyérke" ] }
+{ "_id" : { "$oid" : "643ef7f668db7da29c259232" }, "name" : "alapértelmezett", "expiresat" : "2023-04-17T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "alma" ] }
+{ "_id" : { "$oid" : "643fb5fffd0090e4d331dfb0" }, "name" : "alapértelmezett", "expiresat" : "2023-04-19T09:35:58.552Z", "importance" : "DEFAULT", "content" : [ "" ] }
+{ "_id" : { "$oid" : "643feffefd0090e4d331dfc5" }, "name" : "B", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [  ] }
+{ "_id" : { "$oid" : "643ff000fd0090e4d331dfc7" }, "name" : "C", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [  ] }
+{ "_id" : { "$oid" : "643ff002fd0090e4d331dfc9" }, "name" : "D", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [  ] }
+{ "_id" : { "$oid" : "643ff0bcfd0090e4d331dfcb" }, "name" : "Metro", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [  ] }
+{ "_id" : { "$oid" : "643ff0c7fd0090e4d331dfcd" }, "name" : "Metro", "expiresat" : "2023-04-18T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "", "" ] }
+{ "_id" : { "$oid" : "6443be051d35441bfd4ed3b1" }, "name" : "alapértelmezett", "expiresat" : "2023-04-22T10:59:17.435Z", "importance" : "DEFAULT", "content" : [ "" ] }
+{ "_id" : { "$oid" : "6443e49b1d35441bfd4ed3ba" }, "name" : "asd", "expiresat" : "2023-04-21T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "sadas" ] }
+{ "_id" : { "$oid" : "6443e49c1d35441bfd4ed3bc" }, "name" : "asd", "expiresat" : "2023-04-21T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "sadas" ] }
+{ "_id" : { "$oid" : "6443e49c1d35441bfd4ed3be" }, "name" : "asd", "expiresat" : "2023-04-21T22:00:00.000Z", "importance" : "DEFAULT", "content" : [ "sadas" ] }
