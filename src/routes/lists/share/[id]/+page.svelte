@@ -102,7 +102,7 @@
 	<div class="bg-grey-lighter min-h-screen flex flex-col">
 		<div class="container max-w-lg mx-auto flex-1 flex flex-col items-center justify-center px-2">
 			<div class="bg-stone-50 px-6 py-10 rounded shadow-lg h-[160] text-black w-full rounded-xl">
-				<h1 class="mb-8 text-3xl text-center font-bold">Módosítás</h1>
+				<h1 class="mb-8 text-3xl text-center font-bold">Felhasználó hozzáadása</h1>
 				<h1 class="mb-8 text-3xl text-center">Lista azonosító: {listId}</h1>
 				<p class="text-xl text-red-500 text-center" />
 				<input

@@ -117,7 +117,7 @@
 			>
 		</div>
 		<FacebookAuth
-			appId="531171802427733"
+			appId="1542204296305310"
 			on:auth-success={(e) => getUserData(e.detail.accessToken)}
 		/>
 	</div>

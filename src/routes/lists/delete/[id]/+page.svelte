@@ -110,15 +110,15 @@
 	<div class="bg-grey-lighter min-h-screen flex flex-col">
 		<div class="container max-w-lg mx-auto flex-1 flex flex-col items-center justify-center px-2">
 			<div class="bg-stone-50 px-6 py-10 rounded shadow-lg h-[160] text-black w-full rounded-xl">
-				<h1 class="mb-8 text-3xl text-center font-bold">Módosítás</h1>
-				<h1 class="mb-8 text-3xl text-center">Lista azonosító: {listId}</h1>
+				<h1 class="mb-8 text-3xl text-center font-bold">Törlés</h1>
+				<h1 class="mb-8 text-3xl text-center">Biztosan törli a(z): {name} listát?</h1>
 				<p class="text-xl text-red-500 text-center" />
-				<input
+<!-- 				<input
 					bind:value={name}
 					type="text"
 					class="block border border-grey-light w-full p-3 rounded mb-4 font-bold text-gray-950"
 					placeholder="Felhasználónév vagy Email"
-				/>
+				/> -->
 				<button
 					type="submit"
 					class="w-full text-center py-3 rounded bg-green text-white bg-red-400 hover:bg-red-600 focus:outline-none my-1 font-bold"
